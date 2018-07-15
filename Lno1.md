@@ -1,4 +1,4 @@
 ---
 layout: lno1
-permalink : /lno/
+permalink : /lno1/
 ---
