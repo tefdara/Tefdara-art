@@ -1,3 +1,3 @@
 ---
-layout: Lno1
+layout: lno1
 ---

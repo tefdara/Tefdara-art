@@ -1,18 +1,9 @@
 ---
 layout: about
 title: About
-permalink: /about2/
+permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Dara is an audiovisual artist from Iran, currently based in Edinburgh. His work is focused on 3D realtime audiovisual systems. He creates nonlinear game-like compositions that explore themes such as chaos, silence, dissonance, altered states, Human Computer Interaction and other intersections of culture and technology. He aims to blur the boundaries between contemporary audiovisual art and video games by creating game-like performance systems. In addition, his works take the form of installation pieces and standalone games/applications. He is currently a PhD candidate at Edinburgh University, working on procedural audiovisual systems that examine the cultural implications of adaptive compositions.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Some of his recent work were shown at The Tablbot Rice Gallery (Edinburgh), Sonorities festival (Belfast), Iklectik gallery (London), Paradigm festival (Edinburgh), The Fruitmarket Gallery (Edinburgh) Sound Thought festival (Glasgow).
