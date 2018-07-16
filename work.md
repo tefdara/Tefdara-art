@@ -1,5 +1,5 @@
 ---
-layout : page
-title : Work
+layout : main
+title : 
 permalink: /work/
 ---
