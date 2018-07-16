@@ -1,4 +1,4 @@
 ---
 layout: lnone
-
+permalink: /lnone/
 ---
