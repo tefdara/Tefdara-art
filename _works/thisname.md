@@ -1,0 +1,5 @@
+---
+layout: thisname
+permalink: /thisname/
+
+---

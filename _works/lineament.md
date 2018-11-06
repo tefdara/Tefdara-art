@@ -1,0 +1,4 @@
+---
+layout: lineament
+permalink: /lineament/
+---
