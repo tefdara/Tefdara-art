@@ -1,4 +1,4 @@
 ---
-layout: lineament
+layout: lineament2
 permalink: /lineament/
 ---

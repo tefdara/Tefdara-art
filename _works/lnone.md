@@ -1,4 +1,4 @@
 ---
-layout: lnone
+layout: lno1
 permalink: /lnone/
 ---

@@ -1,7 +1,7 @@
 
 {% include worktemp.html %}
 
-<div class = "text" >
+<!-- <div class = "text" >
 
   <a href="https://vimeo.com/dtef">Vimeo</a
 
@@ -15,9 +15,41 @@
 
 
 
-</body>
+</body> -->
 
 
+  <div class="wrapper">
 
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <!-- <p class="feed-subscribe">
+          <a href="{{ 'feed.xml' | relative_url }}">
+            <svg class="svg-icon orange">
+              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+            <!-- </svg><span>Subscribe</span> -->
+          <!-- </a>
+        </p> -->
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <!-- <li class="p-name">{{ site.author.name | escape }}</li> -->
+          {% endif -%}
+          {% if site.author.email -%}
+            <!-- <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li> -->
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <!-- <p>{{ site.description | escape }}</p> -->
+      </div>
+    </div>
 
-{% include footer.html %}
+    <div class="social-links">
+      {%- include social.html -%}
+      <ul class="social-media-list"><li><a href="mailto:d@tefdara.art"><svg class="svg-icon"><use xlink:href="/assets/email.svg"></use>{% include email.svg %}</svg> <span class="username">Email</span></a></li><li><a href="https://vimeo.com/dtef"><svg class="svg-icon"><use xlink:href="/assets/vimeo.svg"></use>{% include vimeo.svg %}</svg> <span class="username">Vimeo</span></a></li><li><a href="https://www.youtube.com/channel/UCnUM9PNVwzsQwQXiZ_Sgo8w"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#youtube"></use></svg> <span class="username">YouTube</span></a></li><li><a href="https://github.com/tefdara"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">GitHub</span></a></li>  </ul>
+    </div>
+
+  </div>
+
+</footer>
