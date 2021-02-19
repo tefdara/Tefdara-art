@@ -15,9 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 include: ['_works']
 title: tefdara
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Dara Etefaghi, tef dara
+email: d@tefdara.art
+description: > # this means to ignore newlines until "show_excerpts:"
+  Tef Dara - Algorithmic Audiovisual Composition - Game Art => Art Game ? Audio : visual
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tefdara
