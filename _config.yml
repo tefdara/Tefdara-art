@@ -27,7 +27,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 #github_username:  tefdara
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
