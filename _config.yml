@@ -17,12 +17,12 @@ include: ['_works']
 title: tefdara
 email: d@tefdara.art
 description: > # this means to ignore newlines until "show_excerpts:"
-  Tef Dara - Algorithmic Audiovisual Composition - Game Art => Art Game ? Audio : visual
+  Tef Dara - Algorithmic Audiovisual Composition
 
 
 show_excerpts: false # set to true to show excerpts on the homepage
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: tefdara
 #github_username:  tefdara
 
@@ -31,13 +31,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 social_links:
   twitter: tefdara
   github:  tefdara
   # devto: jekyll
   # dribbble: jekyll
-  facebook: jekyll
+  #facebook: jekyll
   # flickr:   jekyll
   # instagram: jekyll
   # linkedin: jekyll
